@@ -1,0 +1,30 @@
+C:\Users\ruans\OneDrive\Área de Trabalho\visual studio\Calculadora.AP\bin\Debug\net6.0\Calculadora.AP.exe
+C:\Users\ruans\OneDrive\Área de Trabalho\visual studio\Calculadora.AP\bin\Debug\net6.0\Calculadora.AP.deps.json
+C:\Users\ruans\OneDrive\Área de Trabalho\visual studio\Calculadora.AP\bin\Debug\net6.0\Calculadora.AP.runtimeconfig.json
+C:\Users\ruans\OneDrive\Área de Trabalho\visual studio\Calculadora.AP\bin\Debug\net6.0\Calculadora.AP.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\visual studio\Calculadora.AP\bin\Debug\net6.0\Calculadora.AP.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\visual studio\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.csproj.AssemblyReference.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\visual studio\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruans\OneDrive\Área de Trabalho\visual studio\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.AssemblyInfoInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\visual studio\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.AssemblyInfo.cs
+C:\Users\ruans\OneDrive\Área de Trabalho\visual studio\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.csproj.CoreCompileInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\visual studio\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\visual studio\Calculadora.AP\obj\Debug\net6.0\refint\Calculadora.AP.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\visual studio\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\visual studio\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.genruntimeconfig.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\visual studio\Calculadora.AP\obj\Debug\net6.0\ref\Calculadora.AP.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Exerc-ciosAP\Calculadora.AP\bin\Debug\net6.0\Calculadora.AP.exe
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Exerc-ciosAP\Calculadora.AP\bin\Debug\net6.0\Calculadora.AP.deps.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Exerc-ciosAP\Calculadora.AP\bin\Debug\net6.0\Calculadora.AP.runtimeconfig.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Exerc-ciosAP\Calculadora.AP\bin\Debug\net6.0\Calculadora.AP.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Exerc-ciosAP\Calculadora.AP\bin\Debug\net6.0\Calculadora.AP.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Exerc-ciosAP\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.csproj.AssemblyReference.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Exerc-ciosAP\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Exerc-ciosAP\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.AssemblyInfoInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Exerc-ciosAP\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.AssemblyInfo.cs
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Exerc-ciosAP\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.csproj.CoreCompileInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Exerc-ciosAP\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Exerc-ciosAP\Calculadora.AP\obj\Debug\net6.0\refint\Calculadora.AP.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Exerc-ciosAP\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Exerc-ciosAP\Calculadora.AP\obj\Debug\net6.0\Calculadora.AP.genruntimeconfig.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Exerc-ciosAP\Calculadora.AP\obj\Debug\net6.0\ref\Calculadora.AP.dll
