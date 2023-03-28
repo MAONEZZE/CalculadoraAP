@@ -1,0 +1,15 @@
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraAtualizada\bin\Debug\net6.0\CalculadoraAtualizada.exe
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraAtualizada\bin\Debug\net6.0\CalculadoraAtualizada.deps.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraAtualizada\bin\Debug\net6.0\CalculadoraAtualizada.runtimeconfig.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraAtualizada\bin\Debug\net6.0\CalculadoraAtualizada.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraAtualizada\bin\Debug\net6.0\CalculadoraAtualizada.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraAtualizada\obj\Debug\net6.0\CalculadoraAtualizada.csproj.AssemblyReference.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraAtualizada\obj\Debug\net6.0\CalculadoraAtualizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraAtualizada\obj\Debug\net6.0\CalculadoraAtualizada.AssemblyInfoInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraAtualizada\obj\Debug\net6.0\CalculadoraAtualizada.AssemblyInfo.cs
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraAtualizada\obj\Debug\net6.0\CalculadoraAtualizada.csproj.CoreCompileInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraAtualizada\obj\Debug\net6.0\CalculadoraAtualizada.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraAtualizada\obj\Debug\net6.0\refint\CalculadoraAtualizada.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraAtualizada\obj\Debug\net6.0\CalculadoraAtualizada.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraAtualizada\obj\Debug\net6.0\CalculadoraAtualizada.genruntimeconfig.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\CalculadoraAtualizada\obj\Debug\net6.0\ref\CalculadoraAtualizada.dll
